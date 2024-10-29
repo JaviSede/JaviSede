@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="manito saludando"/> Soy JaviSede!</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/HyOOyynWxMxig/giphy.gif" alt="GIF de saludo" width="480" height="269" />
+  <img src="https://media3.giphy.com/media/yALcFbrKshfoY/giphy.gif?cid=9b38fe913b9xgic708ncd1n3hxlhgr5iuqd6b4wbd75dcoci&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="GIF de saludo" width="480" height="269" />
 </p>
 
 <p align="center">
