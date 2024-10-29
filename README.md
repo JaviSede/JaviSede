@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tu-usuario&color=blue" alt="Visualizaciones del perfil" />
+  <img src="https://komarev.com/ghpvc/?username=JaviSede&color=blue" alt="Visualizaciones del perfil" />
 </p>
 
 <p align="center">
