@@ -1,7 +1,11 @@
 <h1 align="center">¡Hola! 👋 Soy JaviSede!</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tu-usuario&color=blue" alt="Visualizaciones del perfil" />
+  <img src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" alt="GIF de saludo" width="200" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JaviSede&color=blue" alt="Visualizaciones del perfil" />
 </p>
 
 <p align="center">
