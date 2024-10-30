@@ -17,18 +17,19 @@
 ### 👨‍💻 About Me
 
 - 👨‍🎓 Currently learning **Java, Python, Swift,** and exploring various languages and technologies.
+- 🛠️ Building a foundation in **SQL** and eager to expand my skills in data management.
 - 💼 Student of **Multiplatform App Development (DAM)**.
 - 🌱 Passionate about **AI, cross-platform development, and video games**.
-- 🌍 From **Spain**.
+- 🌍 Based in **Spain**.
 
 ---
 
 ### 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=dotnet&logoColor=white" alt="C#"/>
   <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
@@ -39,8 +40,8 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JaviSede&show_icons=true&theme=radical&cache_seconds=1800" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaviSede&layout=compact&theme=radical&cache_seconds=1800" alt="Most Used Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JaviSede&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaviSede&layout=compact&theme=radical" alt="Most Used Languages"/>
 </div>
 
 ---
