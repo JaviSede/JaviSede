@@ -38,8 +38,8 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JaviSede&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaviSede&layout=compact&theme=radical" alt="Most Used Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JaviSede&show_icons=true&theme=radical&cache_seconds=1800" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaviSede&layout=compact&theme=radical&cache_seconds=1800" alt="Most Used Languages"/>
 </div>
 
 ---
