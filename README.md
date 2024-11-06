@@ -19,7 +19,7 @@
 - 👨‍🎓 Currently learning **Java, Python, Swift,** and exploring various languages and technologies.
 - 💼 Student of **Multiplatform App Development (DAM)**.
 - 🌱 Passionate about **AI, cross-platform development, and video games**.
-- 🌍 Based in **Spain**.
+- 🌍 From **Spain**.
 
 ---
 
@@ -39,8 +39,8 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JaviSede&show_icons=true&theme=radical&cache_seconds=1800" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaviSede&layout=compact&theme=radical&cache_seconds=1800" alt="Most Used Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JaviSede&show_icons=true&theme=radical&cache_seconds=1200" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaviSede&layout=compact&theme=radical&cache_seconds=1200" alt="Most Used Languages"/>
 </div>
 
 ---
